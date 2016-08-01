@@ -1,0 +1,16 @@
+PODS:
+  - AYAnimation (1.0.0)
+
+DEPENDENCIES:
+  - AYAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  AYAnimation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AYAnimation: 151763f731b455ab0e4e4ab271d1ea5008091531
+
+PODFILE CHECKSUM: 113870ca69c5c8885929aee33678594124ed1ff7
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AYAnimation_Example' do
+  pod 'AYAnimation', :path => '../'
+
+  target 'AYAnimation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
